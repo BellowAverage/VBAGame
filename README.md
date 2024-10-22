@@ -131,7 +131,7 @@ The game also includes various other components that handle exams, shop interact
 ### 6. Data Analysis
 
 - **Player Exploration Interest Distribution Chart:** This visualizes which areas of the map players are most interested in exploring.
-![](./media/media/image4.tmp)
+![DA1](./media/media/image4.PNG)
 - **Player Choices in the "Wen De Building Event" Analysis:** This analyzes player decision patterns in the specific event to provide insights into their behavior and preferences.
-![](./media/media/image5.tmp)
+![DA2](./media/media/image5.PNG)
 - Additional analysis features are available within the VBA program, focusing on player behavior and game design evaluation.
